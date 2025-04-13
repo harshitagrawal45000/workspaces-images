@@ -1,4 +1,4 @@
-![Logo][logo]
+git commit -m "Added custom Chrome image with dev tools"![Logo][logo]
 # Workspaces Images
 This repository contains several example of desktop and application Workspaces images.
 Administrators may leverage these images directly or use them as a starting point for their own custom images.
